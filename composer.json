@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "version": "1.0.0",
+    "description": "Brain games",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ezemchenkov",
+            "email": "ezem4enkov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.3"
+    }
+}

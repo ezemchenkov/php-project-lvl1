@@ -1,6 +1,5 @@
 {
     "name": "hexlet/code",
-    "version": "1.0.0",
     "description": "Brain games",
     "type": "project",
     "license": "MIT",
@@ -12,5 +11,8 @@
     ],
     "require": {
         "php": ">=7.4.3"
-    }
+    },
+    "bin": [
+        "bin/brain-games"
+    ]
 }

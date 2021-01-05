@@ -23,7 +23,8 @@
             "src/Engine.php",
             "src/Cli.php",
             "src/Games/Even.php",
-            "src/Games/Calc.php"
+            "src/Games/Calc.php",
+            "src/Games/Gcd.php"
         ]
     },
     "require-dev": {

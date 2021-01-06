@@ -29,7 +29,7 @@ function start(callable $game, string $description): void
         } else {
             line("'%s' is wrong answer ;(. Correct answer was '%s'.", $answer, $correctAnswer);
             line('Let\'s try again, %s!', $name);
-            $corrects = 0;
+            return;
         }
     }
 

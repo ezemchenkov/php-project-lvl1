@@ -59,5 +59,5 @@ function getProgression(): array
 
 function getMissedPos(array $progression): int
 {
-    return array_rand($progression);
+    return (int) array_rand($progression);
 }

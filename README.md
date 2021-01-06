@@ -20,3 +20,19 @@ $ make install
 ```sh
 $ make brain-even
 ```
+### Игра: "Калькулятор"
+```sh
+$ make brain-calc
+```
+### Игра: "НОД"
+```sh
+$ make brain-gcd
+```
+### Игра: "Арифметическая прогрессия"
+```sh
+$ make brain-progression
+```
+### Игра: "Простое ли число?"
+```sh
+$ make brain-prime
+```

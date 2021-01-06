@@ -33,5 +33,5 @@ function start(callable $game, string $description): void
         }
     }
 
-    line("Congratulations, %s", $name);
+    line("Congratulations, %s!", $name);
 }
